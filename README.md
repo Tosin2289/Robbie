@@ -1,16 +1,15 @@
-# my_ai
+# Robbie
 
-A new Flutter project.
+An Ai model that makes use of the google gemini api
 
-## Getting Started
+## App Demos
 
-This project is a starting point for a Flutter application.
+<img src='https://github.com/Tosin2289/Robbie/assets/66890167/6c845834-85ff-4003-a6d3-240f7074671d' width='200'>
+<img src='https://github.com/Tosin2289/Robbie/assets/66890167/66bbabc3-9cf5-4388-9030-c6d7d24aa10e' width='200'>
+<img src='https://github.com/Tosin2289/Robbie/assets/66890167/9932c0ba-8827-4332-8f2a-9f8249ce0006' width='200'>
+<img src='https://github.com/Tosin2289/Robbie/assets/66890167/64ec278c-ecf3-453b-b39d-e2753a88cf67' width='200'>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
